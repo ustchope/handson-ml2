@@ -1,3 +1,5 @@
+中文翻译（初版）
+
 Machine Learning Notebooks
 ==========================
 
